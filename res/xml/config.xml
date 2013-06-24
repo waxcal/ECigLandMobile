@@ -18,12 +18,12 @@
  under the License.
 -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
-        id        = "com.waxapps.wifly"
+        id        = "com.waxapps.ecigland"
         version   = "0.0.1">
-    <name>Wifly</name>
+    <name>ECigLand</name>
 
     <description>
-        Communication de proximité sur points d'accés Wifi
+        Cigarette Electronique � petit prix
     </description>
 
     <author href="http://cordova.io" email="waxcal@gmail.com">
